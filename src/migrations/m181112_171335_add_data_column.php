@@ -3,8 +3,6 @@
  * @copyright Anton Tuyakhov <atuyakhov@gmail.com>
  */
 
-namespace tuyakhov\notifications\migrations;
-
 use yii\db\Migration;
 
 class m181112_171335_add_data_column extends Migration
